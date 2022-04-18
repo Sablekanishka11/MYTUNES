@@ -1,25 +1,4 @@
-main.js
-Who has access
-Not shared
-System properties
-Type
-JavaScript
-Size
-810 bytes
-Storage used
-810 bytes
-Location
-MYTUNES
-Owner
-me
-Modified
-00:00 by me
-Opened
-00:05 by me
-Created
-00:01 with Google Drive
-Add a description
-Viewers can download
+
 //Responsive nav
 $(function() {
 	menu = $('nav ul');
